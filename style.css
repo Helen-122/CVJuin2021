@@ -183,7 +183,7 @@ h3 {
   align-items: center;
   text-align: center;
   border-radius: 50%;
-  background-color: #f94144;
+  background-color: #90be6d;
   font-size: 16px;
   color: white;
   transition-property: color;
@@ -196,7 +196,7 @@ h3 {
   justify-content: center;
   text-align: center;
   border-radius: 50%;
-  background-color: #277da1;
+  background-color: #f9c74f;
   color: white;
   font-size: 16px;
   transform: rotateX(180deg);
@@ -254,7 +254,7 @@ h3 {
   align-items: center;
   text-align: center;
   border-radius: 50%;
-  background-color: #f3722c;
+  background-color: #43aa8b;
   font-size: 14px;
   color: white;
   transition-property: color;
@@ -267,7 +267,7 @@ h3 {
   justify-content: center;
   text-align: center;
   border-radius: 50%;
-  background-color: #277da1;
+  background-color: #f9c74f;
   color: white;
   font-size: 14px;
   transform: rotateX(180deg);
@@ -325,9 +325,9 @@ h3 {
   align-items: center;
   text-align: center;
   border-radius: 50%;
-  background-color: #f9c74f;
+  background-color: #4d908e;
   font-size: 16px;
-  color: #277da1;
+  color: white;
   transition-property: color;
   transition-duration: 0.1s;
   transition-delay: 0.1s;
@@ -338,7 +338,7 @@ h3 {
   justify-content: center;
   text-align: center;
   border-radius: 50%;
-  background-color: #277da1;
+  background-color: #f9c74f;
   color: white;
   font-size: 16px;
   transform: rotateX(180deg);
@@ -395,7 +395,7 @@ h3 {
   align-items: center;
   text-align: center;
   border-radius: 50%;
-  background-color: #90be6d;
+  background-color: #577590;
   font-size: 14px;
   color: white;
   transition-property: color;
@@ -408,7 +408,7 @@ h3 {
   justify-content: center;
   text-align: center;
   border-radius: 50%;
-  background-color: #277da1;
+  background-color: #f9c74f;
   color: white;
   font-size: 14px;
   transform: rotateX(180deg);
